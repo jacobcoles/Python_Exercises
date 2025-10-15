@@ -1,0 +1,9 @@
+product_id,product,category,list_price,status
+P-BSC,Basic,Core,49.0,Active
+P-PLS,Plus,Core,99.0,Active
+P-PRO,Pro,Core,199.0,Active
+P-ENT,Enterprise,Suite,499.0,Active
+P-ANL,Analytics,Addon,299.0,Active
+P-ADD,Add-on,Addon,29.0,Active
+P-LGC,Legacy,Legacy,79.0,Discontinued
+P-BTA,Beta,Beta,59.0,Preview
