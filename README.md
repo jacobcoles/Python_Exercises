@@ -1,3 +1,8 @@
 # Python Exercises
 
-Take a look at the Jupyter notebook
+There are two jupyter notebooks:
+
+* Exercises: exercises.ipynb
+* Solutions: exercise_solutions.ipynb
+
+Data can be found in the **/files** folder
