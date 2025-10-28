@@ -25,6 +25,10 @@ During the course, we cloned and investigated the examples in the following repo
 
  - [NumpyPandas Course](https://github.com/guiwitz/NumpyPandas_course)
 
+## Slides
+
+Found in **Python_Training_Slides.pptx** in this repo.
+
 ## Books
 
 Recommended reading:
