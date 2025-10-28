@@ -36,6 +36,11 @@ git add C://path/to/specific/file
 git add .
 ```
 
+You can always check the current state of the repository, which will show you what files have been modified since the last commit (version), which have been staged for the next commit etc.:
+```
+git status
+```
+
 Then you can commit these changes (locally) as a new commit (version) with a custom message under the -m flag:
 ```
 git commit -m "Here are some changes I made"
