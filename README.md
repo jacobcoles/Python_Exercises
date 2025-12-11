@@ -21,7 +21,7 @@ If you would like to investigate other types of visualizations, you can find mor
 
 ### Additional Pandas and Numpy Exercises
 
-During the course, we cloned and investigated the examples in the following repository:
+The following is a highly recommended course. I recommend starting from notebook 06 (with the Pandas exercises):
 
  - [NumpyPandas Course](https://github.com/guiwitz/NumpyPandas_course)
 
